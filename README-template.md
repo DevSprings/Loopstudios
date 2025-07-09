@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://loopstudios7.netlify.app/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -66,7 +66,7 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@DevSprings](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [DevSprings](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
